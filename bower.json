@@ -1,0 +1,6 @@
+{
+  "name": "wall2",
+  "dependencies": {
+    "ngActiveResource": "https://github.com/brettshollenberger/the-abstractions-are-leaking.git#0.7.25"
+  }
+}
